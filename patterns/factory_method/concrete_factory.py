@@ -1,5 +1,5 @@
-from factory_method.factory import GeometricFactory
-from factory_method.concrete_product import Triangle, Rectangle, Square
+from patterns.factory_method.factory import GeometricFactory
+from patterns.factory_method.concrete_product import Triangle, Rectangle, Square
 
 
 class Tangram(GeometricFactory):

@@ -1,6 +1,6 @@
 from abc import ABC
 
-from strategy.strategy import Behavior
+from patterns.strategy.strategy import Behavior
 
 
 class Duck(ABC):

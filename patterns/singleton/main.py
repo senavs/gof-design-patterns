@@ -1,4 +1,4 @@
-from singleton.singleton import Singleton
+from patterns.singleton.singleton import Singleton
 
 if __name__ == '__main__':
     s1 = Singleton()

@@ -1,4 +1,4 @@
-from strategy.strategy import QuackBehavior, FlyBehavior
+from patterns.strategy.strategy import QuackBehavior, FlyBehavior
 
 
 class SimpleQuackBehavior(QuackBehavior):

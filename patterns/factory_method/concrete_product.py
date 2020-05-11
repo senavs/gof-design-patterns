@@ -1,4 +1,4 @@
-from factory_method.product import GeometricForm
+from patterns.factory_method.product import GeometricForm
 
 
 class Triangle(GeometricForm):
