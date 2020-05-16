@@ -8,6 +8,7 @@ Python implementation of GOF Design Patterns (Gang of Four)
 | Singleton | [Singleton Wikipedia] | [Singleton Python Implementation] | 
 | Strategy | [Strategy Wikipedia] | [Strategy Python Implementation] | 
 | Observer | [Observer Wikipedia] | [Observer Implementation] | 
+| State | [State Wikipedia] | [State Implementation] | 
 
 [Factory Method Wikipedia]: https://en.wikipedia.org/wiki/Factory_method_pattern
 [Factory Method Python Implementation]: https://github.com/senavs/gof-design-patterns/tree/master/patterns/factory_method
@@ -20,3 +21,6 @@ Python implementation of GOF Design Patterns (Gang of Four)
 
 [Observer Wikipedia]: https://en.wikipedia.org/wiki/observer_pattern
 [Observer Implementation]: https://github.com/senavs/gof-design-patterns/tree/master/patterns/observer
+
+[State Wikipedia]: https://en.wikipedia.org/wiki/state_pattern
+[State Implementation]: https://github.com/senavs/gof-design-patterns/tree/master/patterns/state
